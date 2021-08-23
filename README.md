@@ -1,0 +1,4 @@
+- Hi, I'm Bakhtiar
+- I am interested in web development
+- I am currently working on Wordpress
+- You can contact me by mail umutbaiev20022002@gmail.com
