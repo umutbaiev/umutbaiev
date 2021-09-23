@@ -1,0 +1,12 @@
+<svg id="arrow" xmlns="http://www.w3.org/2000/svg" width="177.562" height="338.531" viewBox="0 0 177.562 338.531">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_1" data-name="Rectangle 1" class="cls-1" d="M82,0H96V338H82V0h0Z"/>
+  <path id="Rectangle_2" data-name="Rectangle 2" class="cls-1" d="M-0.507,199.326l11.829-6.871h0L92.187,331.674h0l-11.829,6.871h0L-0.507,199.326h0Z"/>
+  <path id="Rectangle_2-2" data-name="Rectangle 2" class="cls-1" d="M165.735,192.056l11.829,6.871h0L96.693,338.142h0l-11.829-6.871h0l80.871-139.215h0Z"/>
+</svg>
